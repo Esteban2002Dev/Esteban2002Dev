@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **FrontEnd, Backend and software Architecture**
 
-- 💬 Ask me about **Angular, Ionic, laravel,Django, Mysql.**
+- 💬 Ask me about **Angular, Ionic, laravel, Mysql.**
 
 - 📫 How to reach me **tsuesteban2002@gmail.com**
 
