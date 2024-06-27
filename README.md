@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
-<h3 align="center">A passionate fullstack jr. developer from Mexico</h3>
+<h3 align="center">An apassionate Software jr. developer from Mexico</h3>
 
 - 🌱 I’m currently learning **FrontEnd, Backend and software Architecture**
 
