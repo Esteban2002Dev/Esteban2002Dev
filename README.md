@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esteban</h1>
 <h3 align="center">An apassionate Software jr. developer from Mexico</h3>
 
-- 🌱 I’m currently learning **FrontEnd, Backend and software Architecture**
+- 🌱 I’m currently learning **React Native, NestJs and software Architecture**
 
 - 💬 Ask me about **Angular, Ionic, laravel, Mysql.**
 
