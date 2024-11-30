@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/luis-esteban-lopez-rios-b64770265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis esteban lopez rios" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/estebandev2020/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis esteban lopez rios" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCmGc01gtL_0Ji697ZsU2i7w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luis esteban" height="30" width="40" /></a>
 <a href="https://drive.google.com/drive/folders/1qkb3vwPmpFNj9f2xWfWEzYz9hyjgEV41?usp=sharing" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Google_Drive_Logo_128px.png" alt="Esteba - drive" height="30" width="40" /></a>
 </p>
